@@ -1,6 +1,6 @@
 Lab Manual: The Quantitative Marine Ecology Lab
 ================
-Last updated: 03-August-2021
+Last updated: 20-December-2021
 
 General expectations, guidelines, and information for all lab members
 
@@ -8,7 +8,6 @@ General expectations, guidelines, and information for all lab members
 
 -   [Welcome to the Quantitative Marine Ecology
     Lab!](#welcome-to-the-quantitative-marine-ecology-lab!)
--   [Mission statement](#mission-statement)
 -   [Guiding principles](#guiding-principles)
 -   [General expectations](#general-expectations)
     -   [Big picture](#big-picture)
@@ -81,10 +80,6 @@ License](https://creativecommons.org/licenses/by-nc/4.0/). If you’re a
 PI or a trainee in a different lab and want to write your own lab
 manual, feel free to take inspiration from this one (and cite us!)
 
-# Mission statement
-
-Work in progress with the lab
-
 # Guiding principles
 
 There are several guiding principles that form the basis of my outlook
@@ -92,7 +87,7 @@ as a scientist which also inform my approach to leading a lab.
 Throughout this lab manual, I will come back to these themes.
 
 1.  Work-life balance
-2.  Vulnerability and Openness
+2.  Vulnerability and openness
 3.  Transparency
 4.  Tracking progress
 5.  Antiracist principles
@@ -154,6 +149,11 @@ which are very different from other labs you may have been a part of):
     achievable, but lofty. We also keep the idea of backwards design in
     our planning process on order to help us achieve our long-term
     goals.
+-   A critical part of being a lab member is attending events in the
+    department, on campus, and beyond the university. Events can include
+    casual coffee breaks, job candidate talks, scientific lectures, and
+    social hours. All of these events provide an important opportunity
+    for both your own career and to build a culture of community.
 
 ## Small picture
 
@@ -270,7 +270,11 @@ can work as a substitute in these cases.
 
 ## File storage and sharing
 
-In progress - likely to be a combination of OneDrive and Google Drive.
+The lab uses a combination of OneDrive and Google Drive. We use OneDrive
+for large file storage and backing up data. We use Google drive for
+collaborating on documents, especially with external co-authors. For
+manuscripts written by only members of QMEL, the preference for document
+preparation is a combination of R markdown and Github.
 
 ## Working on papers
 
@@ -290,7 +294,8 @@ Google docs, and allows collaborations among many people.
 
 ## Social media
 
-In progress (Twitter and Instagram)
+The lab has a Twitter (<https://twitter.com/quantmarineeco>) that is
+maintained by the lab PI.
 
 # Lab website
 
@@ -362,9 +367,10 @@ to add comments or contribute a figure to a grant proposal that Easton
 is working on. In addition, you are always welcome to read grants that
 Easton has worked on or submitted.
 
-As a lab, we have compiled a database of funding opportunies that are
-the most relevant to members of this lab (ADD LINK HERE). However, there
-are lots of other good databases of funding opporutnies as well:
+As a lab, we have compiled a database of funding opportunities that are
+the most relevant to members of this lab (see shared Google Drive).
+However, there are lots of other good databases of funding opportunities
+as well:
 
 -   <https://grad.ucla.edu/funding/#/search>
 -   daljkds

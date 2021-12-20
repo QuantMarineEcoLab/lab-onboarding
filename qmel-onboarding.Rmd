@@ -2,9 +2,9 @@
 title: "Lab Manual: The Quantitative Marine Ecology Lab"
 date: "Last updated: `r format(Sys.time(), '%d-%B-%Y')`"
 output:
+  pdf_document: default
   github_document: 
   md_document:
-  pdf_document: default
   html_document:
     df_print: paged
 ---
@@ -37,18 +37,12 @@ Wherever possible, this document includes links to other resources and documents
 This lab manual is licensed under a [Creative Commons Attribution - Non-Commercial 4.0 
 International License](https://creativecommons.org/licenses/by-nc/4.0/). If you’re a PI or a trainee in a different lab and want to write your own lab manual, feel free to take inspiration from this one (and cite us!)
 
-
-# Mission statement
-
-Work in progress with the lab
-
-
 # Guiding principles
 
 There are several guiding principles that form the basis of my outlook as a scientist which also inform my approach to leading a lab. Throughout this lab manual, I will come back to these themes.
 
 1.	Work-life balance
-2.	Vulnerability and Openness
+2.	Vulnerability and openness
 3.	Transparency
 4.	Tracking progress
 5.	Antiracist principles
@@ -73,6 +67,7 @@ Science can be hard, frustrating, and even sometimes painful (like when my appen
 *	A research lab is similar to a small business. As the lab PI, I am the entrepreneur and CEO. One of my main responsibilities is to provide overall direction and to bring in work (via grants). However, because we are a small group, there should be a relatively flat hierarchy in the lab. This research lab will only be successful if we work together.
 *	Research funding and publications are two commonly used metrics of success in science. This is problematic in many ways, but it is how things are. This doesn't mean that we can't work on other things (e.g., science outreach), but funding and publications still have to happen. 
 *	Each semester, we will reflect as a group and in one-on-one discussions on upcoming goals of the lab. This is meant as a way to track our progress towards goals and reduce ambiguity. We are not aiming to accomplish 100% of our goals. Ideally, we will only accomplish 70-80% of our goals each semester to ensure our goals are achievable, but lofty. We also keep the idea of backwards design in our planning process on order to help us achieve our long-term goals. 
+* A critical part of being a lab member is attending events in the department, on campus, and beyond the university. Events can include casual coffee breaks, job candidate talks, scientific lectures, and social hours. All of these events provide an important opportunity for both your own career and to build a culture of community.
 
 ## Small picture
 
@@ -142,7 +137,7 @@ Our lab is a leader in open and reproducible science. This means that every memb
 
 ## File storage and sharing 
 
-In progress - likely to be a combination of OneDrive and Google Drive.
+The lab uses a combination of OneDrive and Google Drive. We use OneDrive for large file storage and backing up data. We use Google drive for collaborating on documents, especially with external co-authors. For manuscripts written by only members of QMEL, the preference for document preparation is a combination of R markdown and Github.
 
 ## Working on papers
 
@@ -154,7 +149,7 @@ You are free to use whatever reference manager you prefer, but most people in th
 
 ## Social media
 
-In progress (Twitter and Instagram)
+The lab has a Twitter (https://twitter.com/quantmarineeco) that is maintained by the lab PI. 
 
 
 # Lab website
@@ -186,7 +181,7 @@ Thus, simply providing some data or providing minor comments on a manuscript do 
 
 Like publications, funding is an important metric in science. Applying for and receiving funding allows us to do interesting science, but it also will help you in your career. As a lab member, you are expected to apply for grants to support research and travel as well as fellowships that may advance your career. This helps both you and the lab as a whole. Although you’ll lead these applications, you can also expect meaningful contributions from Easton throughout the process. This means enough lead time is critical. In addition, you may occasionally be asked to add comments or contribute a figure to a grant proposal that Easton is working on. In addition, you are always welcome to read grants that Easton has worked on or submitted. 
 
-As a lab, we have compiled a database of funding opportunies that are the most relevant to members of this lab (ADD LINK HERE). However, there are lots of other good databases of funding opporutnies as well:
+As a lab, we have compiled a database of funding opportunities that are the most relevant to members of this lab (see shared Google Drive). However, there are lots of other good databases of funding opportunities as well:
 
 *	https://grad.ucla.edu/funding/#/search
 *	daljkds
