@@ -1,7 +1,3 @@
-Lab Manual: The Quantitative Marine Ecology Lab
-================
-Last updated: 20-December-2021
-
 General expectations, guidelines, and information for all lab members
 
 ## Table of Contents
@@ -270,11 +266,12 @@ can work as a substitute in these cases.
 
 ## File storage and sharing
 
-The lab uses a combination of OneDrive and Google Drive. We use OneDrive
-for large file storage and backing up data. We use Google drive for
-collaborating on documents, especially with external co-authors. For
-manuscripts written by only members of QMEL, the preference for document
-preparation is a combination of R markdown and Github.
+The lab uses a combination of Sharepoint and Google Drive. We use
+Sharepoint for large file storage and backing up data. We use Google
+drive for collaborating on documents, especially with external
+co-authors. For manuscripts written by only members of QMEL, the
+preference for document preparation is a combination of R markdown and
+Github.
 
 ## Working on papers
 
@@ -284,7 +281,8 @@ in the process which might save a lot of headaches later. When you have
 a version, you would like Easton to read, simply let him know that you
 would like feedback and try to specify by when and for what you
 specifically want feedback with (e.g., structuring the introduction,
-figure design, etc.).
+figure design, etc.). Every grant and paper needs to be read by one
+other lab member and Easton before submission.
 
 ## Reference manager
 
@@ -389,7 +387,7 @@ responsibilities:
 
 1.  Working on projects/papers related to your postdoc position
 2.  Finishing up old work
-3.  Developing independent work…
+3.  Developing independent work
 4.  Mentoring students
 5.  Applying for funding and jobs
 
@@ -459,7 +457,74 @@ Good resources:
 
 # Being a successful undergraduate researcher
 
-In progress
+Undergraduates play a critical role in QMEL. The lab has several ongoing
+research projects led by either Professor White or another senior member
+of the lab (including graduate students and postdocs). Undergraduates
+interested in working in the lab should have a genuine interest in the
+research questions and be interested in developing quantitative (e.g.,
+math, statistics, computer programming) skills.
+
+Research Phases: There are three phases at which undergraduates can be
+involved in research within QMEL. The different phases represent
+different levels of research experience, independence, and
+responsibility. Most students start as research assistants. Not all
+students move through all three levels of involvement.
+
+-   Research Apprentice: The first stage of involvement for an
+    undergraduate is as a research apprentice. At this stage, an
+    undergraduate joins a research team in the lab. The goal is to get
+    caught up on the current progress of the team. This includes reading
+    scientific papers, learning necessary tools (e.g., R programming),
+    and meeting regularly with team members. This phase continues until
+    Professor White and the research team agree the student is ready to
+    become a more active and contributing member to the lab. This phase
+    typically last one semester or year.
+-   Research Assistant: Following their apprenticeship, students are
+    expected to contribute in more significant ways to the research
+    team. This can involve collecting and analyzing data, manuscript
+    writing, conducting experiments, and so forth. The goal during this
+    phase is to present work at a scientific conference or submit a
+    manuscript to a peer-reviewed scientific journal.
+-   Research Associate: The final phase of involvement in the lab is for
+    students who have presented their work at a conference or been
+    involved in the submission of a manuscript (see above). This phase
+    involves more leadership and independence. Students at this level
+    define team goals, help mentor new team members, and meet regularly
+    with Professor White. This phase in the lab is very similar to being
+    a graduate student in the lab.
+
+During your time as a undergraduate researcher in the QEML, you will
+have several responsibilities:
+
+-   Send me weekly email updates on Fridays by 5pm describing briefly
+    what you’ve been working on, what you plan to do the following week,
+    and any questions or troubles you had. Important things to include:
+    projects you’ve worked on, broken equipment, storage/equipment
+    conflicts, if your data looks weird.
+-   Attend lab meetings. The entire lab assembles approximately once a
+    week to discuss our research. Generally, the person leading the lab
+    meeting will distribute reading materials in advance. You should
+    read these materials and come prepared to participate actively in
+    the discussion.
+-   Maintain a lab notebook and stay organized. There is a lot of
+    overlap in projects, and it is essential that you keep track of your
+    work. This includes updating the data spreadsheets and lab notebooks
+    immediately. Someone else should be able to step into your role at
+    any moment and be able to get up to speed quickly.
+-   Read background literature. A key part to your development as a
+    scientist
+-   Communicate, communicate, communicate. Many of the issues that arise
+    in research are simply because of a lack of communication. It is
+    critical that you communicate early and often on issues or concerns
+    that you may be experiences.
+-   Be independent. I am periodically away, and I expect you to get
+    things done well without me. Ask questions when I am around, but
+    don’t be afraid to try to do the detective work on your own if I am
+    not. We have a helpful, experienced lab, so know that folks other
+    than me may be excellent resources.
+-   Keep up with your other responsibilities. As an undergraduate, you
+    have many other obligations. This can include coursework, jobs,
+    family, and more.
 
 # Inspiration for this lab manual
 
