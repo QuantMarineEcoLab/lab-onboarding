@@ -1,3 +1,7 @@
+Lab Manual: The Quantitative Marine Ecology Lab
+================
+Last updated: 06-June-2022
+
 General expectations, guidelines, and information for all lab members
 
 ## Table of Contents
@@ -8,6 +12,7 @@ General expectations, guidelines, and information for all lab members
 -   [General expectations](#general-expectations)
     -   [Big picture](#big-picture)
     -   [Small picture](#small-picture)
+    -   [Taking time off](#taking-time-off)
 -   [Expectations of the Principal
     Investigator](#expectations-of-the-principal-investigator)
 -   [Communication](#communication)
@@ -161,6 +166,20 @@ which are very different from other labs you may have been a part of):
     (whatever time of day you like to do it).
 -   Show up and be on time for meetings.
 -   Keep the lab spaces clean and tidy
+
+## Taking time off
+
+In order to maintain your mental health and productivity, it is
+essential to take time off. For this reason, all full-time lab members,
+including the PI, are guaranteed 20 paid days off. The lab PI
+appreciates when you let him know you won’t be in, but you are welcome
+to take time off for any reason. You don’t need to take time off for a
+scientific conference (related to your graduate work) or for holidays.
+There is no need to formally track your time off. There may also be days
+where your work isn’t going particularly well. You should feel empowered
+to leave work early and take care of yourself. In this lab, we are
+worried about long-term productivity versus how much time you spend on
+any given day doing work.
 
 # Expectations of the Principal Investigator
 
@@ -385,11 +404,11 @@ is key to make connections with other postdocs or scientists on campus.
 During your time as a postdoc in the QEML, you will have several
 responsibilities:
 
-1.  Working on projects/papers related to your postdoc position
-2.  Finishing up old work
-3.  Developing independent work
-4.  Mentoring students
-5.  Applying for funding and jobs
+1)  Working on projects/papers related to your postdoc position
+2)  Finishing up old work
+3)  Developing independent work
+4)  Mentoring students
+5)  Applying for funding and jobs
 
 One of the most stressful parts of a postdoc position is the short-term
 and finite nature of the role. You only have a couple of years to find
@@ -421,17 +440,17 @@ good advisor.
 During your time as a grad student in the QEML, you will have several
 responsibilities:
 
-1.  Taking care of yourself
-2.  Taking classes
-3.  Attending conferences and giving presentations
-4.  Working on projects/papers related to your thesis
-5.  Working on projects/papers not related to your thesis
-6.  Serving as a teaching assistant or teaching courses
-7.  Mentoring students
-8.  Applying for funding and fellowships
-9.  Applying for jobs
-10. Science communication and outreach
-11. Staying up to date on the latest science
+1)  Taking care of yourself
+2)  Taking classes
+3)  Attending conferences and giving presentations
+4)  Working on projects/papers related to your thesis
+5)  Working on projects/papers not related to your thesis
+6)  Serving as a teaching assistant or teaching courses
+7)  Mentoring students
+8)  Applying for funding and fellowships
+9)  Applying for jobs
+10) Science communication and outreach
+11) Staying up to date on the latest science
 
 There is clearly a lot to being a graduate student. It can sometimes be
 difficult to know where to spend your time, which is your most precious

@@ -2,9 +2,9 @@
 title: "Lab Manual: The Quantitative Marine Ecology Lab"
 date: "Last updated: `r format(Sys.time(), '%d-%B-%Y')`"
 output:
+  pdf_document: default
   md_document:
   github_document: 
-  pdf_document: default
   html_document:
     df_print: paged
 ---
@@ -75,6 +75,10 @@ Science can be hard, frustrating, and even sometimes painful (like when my appen
 *	You aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night (Easton rarely works during these times). You are expected to get your work done (whatever time of day you like to do it).
 *	Show up and be on time for meetings.
 *	Keep the lab spaces clean and tidy
+
+## Taking time off
+
+In order to maintain your mental health and productivity, it is essential to take time off. For this reason, all full-time lab members, including the PI, are guaranteed 20 paid days off. The lab PI appreciates when you let him know you won't be in, but you are welcome to take time off for any reason. You don't need to take time off for a scientific conference (related to your graduate work) or for holidays. There is no need to formally track your time off. There may also be days where your work isn't going particularly well. You should feel empowered to leave work early and take care of yourself. In this lab, we are worried about long-term productivity versus how much time you spend on any given day doing work.
 
 
 # Expectations of the Principal Investigator
