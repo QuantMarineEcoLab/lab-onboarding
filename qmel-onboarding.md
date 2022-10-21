@@ -1,6 +1,6 @@
 Lab Manual: The Quantitative Marine Ecology Lab
 ================
-Last updated: 06-June-2022
+Last updated: 21-October-2022
 
 General expectations, guidelines, and information for all lab members
 
@@ -39,21 +39,22 @@ General expectations, guidelines, and information for all lab members
     student](#being-a-successful-graduate-student)
 -   [Being a successful undergraduate
     researcher](#being-a-successful-undergraduate-researcher)
+-   [Lab offboarding](#lab-offboarding)
 -   [Inspiration for this lab manual](#inspiration-for-this-lab-manual)
 
 # Welcome to the Quantitative Marine Ecology Lab!
 
 Welcome to the Quantitative Marine Ecology Lab (QMEL) at UNH. You are
 joining a team of scientists dedicated to changing the world by tackling
-the most pressing problems in our oceans. We use a variety of
-quantitative approaches, coupled with big data and experiments, to
-investigate the natural world, with a focus on marine systems. The
-purpose of this document is to help ensure a more seamless transition
-into the lab. The document is a living document and is by no means
-exhaustive. The goal is simply to try and get members of the lab on the
-same page and to help you be successful. You are encouraged to make
-additions and edits to this document in order to help future lab
-members. In addition, to this lab manual, there is also a [**lab
+the most pressing problems in ecology. We use a variety of quantitative
+approaches, coupled with big data and experiments, to investigate the
+natural world, with a focus on marine systems. The purpose of this
+document is to help ensure a more seamless transition into the lab. The
+document is a living document and is by no means exhaustive. The goal is
+simply to try and get members of the lab on the same page and to help
+you be successful. You are encouraged to make additions and edits to
+this document in order to help future lab members. In addition, to this
+lab manual, there is also a [**lab
 wiki**](https://github.com/QuantMarineEcoLab/lab-onboarding/wiki). The
 lab wiki is to provide more nitty gritty details on how the lab operates
 and how to be successful (e.g., how to get signed off to operate UNH
@@ -230,7 +231,7 @@ regular basis.
 
 ## Unscheduled communication
 
-I am typically on campus from 9am-6pm Mon through Friday. However, my
+I am typically on campus from 9am-5pm Mon through Friday. However, my
 time is split between being working in my office, attending meetings, or
 teaching classes. When I am in my office, I may or not be available to
 chat. I often have “deep work” sessions where I am trying to concentrate
@@ -241,7 +242,7 @@ setting up a formal time to chat.
 
 ## Click-up
 
-Will be introduced in January 2022.
+Will be introduced in January 2023.
 
 ## Lab Slack team
 
@@ -253,7 +254,8 @@ clutter.
 
 ## Email
 
-In progress
+We don’t use email a lot in the lab. We use email to collaborate with
+non-lab members or to share documents back and forth.
 
 ## Texting and phone calls
 
@@ -357,12 +359,12 @@ criteria:
 Thus, simply providing some data or providing minor comments on a
 manuscript do not warrant authorship, but they should still be
 acknowledged. Just because I am your advisor, does not mean I warrant
-authorship on your publications. There will likely be publications that
-you are involved with that I have only a small part in. That being said,
-the most common order (but by no means the only) for authorship in the
-lab is Grad Student Lead, Other Contributors, with the PI as the last
-author. It is common for the grad student lead and the PI to both be
-corresponding authors.
+authorship on your publications. The same goes for your committee
+members. There will likely be publications that you are involved with
+that I have only a small part in. That being said, the most common order
+(but by no means the only) for authorship in the lab is Grad Student
+Lead, Other Contributors, with the PI as the last author. It is common
+for the grad student lead and the PI to both be corresponding authors.
 
 ## Authorship resources
 
@@ -386,11 +388,6 @@ Easton has worked on or submitted.
 
 As a lab, we have compiled a database of funding opportunities that are
 the most relevant to members of this lab (see shared Google Drive).
-However, there are lots of other good databases of funding opportunities
-as well:
-
--   <https://grad.ucla.edu/funding/#/search>
--   daljkds
 
 # Being a successful postdoc
 
@@ -404,11 +401,11 @@ is key to make connections with other postdocs or scientists on campus.
 During your time as a postdoc in the QEML, you will have several
 responsibilities:
 
-1)  Working on projects/papers related to your postdoc position
-2)  Finishing up old work
-3)  Developing independent work
-4)  Mentoring students
-5)  Applying for funding and jobs
+1.  Working on projects/papers related to your postdoc position
+2.  Finishing up old work
+3.  Developing independent work
+4.  Mentoring students
+5.  Applying for funding and jobs
 
 One of the most stressful parts of a postdoc position is the short-term
 and finite nature of the role. You only have a couple of years to find
@@ -440,17 +437,17 @@ good advisor.
 During your time as a grad student in the QEML, you will have several
 responsibilities:
 
-1)  Taking care of yourself
-2)  Taking classes
-3)  Attending conferences and giving presentations
-4)  Working on projects/papers related to your thesis
-5)  Working on projects/papers not related to your thesis
-6)  Serving as a teaching assistant or teaching courses
-7)  Mentoring students
-8)  Applying for funding and fellowships
-9)  Applying for jobs
-10) Science communication and outreach
-11) Staying up to date on the latest science
+1.  Taking care of yourself
+2.  Taking classes
+3.  Attending conferences and giving presentations
+4.  Working on projects/papers related to your thesis
+5.  Working on projects/papers not related to your thesis
+6.  Serving as a teaching assistant or teaching courses
+7.  Mentoring students
+8.  Applying for funding and fellowships
+9.  Applying for jobs
+10. Science communication and outreach
+11. Staying up to date on the latest science
 
 There is clearly a lot to being a graduate student. It can sometimes be
 difficult to know where to spend your time, which is your most precious
@@ -544,6 +541,31 @@ have several responsibilities:
 -   Keep up with your other responsibilities. As an undergraduate, you
     have many other obligations. This can include coursework, jobs,
     family, and more.
+
+# Lab offboarding
+
+We have a document in the shared Google drive focused on lab
+offboarding, the process that describes what happens when someone leaves
+the lab. Here is a brief summary of the process.
+
+-   Ensure that all data (including raw data sheets) and code is
+    available in a public repository or in the QuantMarineEcoLab Github,
+    GoogleDrive, or Sharepoint folders
+-   Ensure that your data (if applicable) has appropriate metadata
+    (e.g., describing columns in your data)
+    <https://knb.ecoinformatics.org/about>
+-   Develop a plan for next steps (if appropriate) for your project in
+    collaboration with your mentor and Easton
+-   Return any lab equipment (e.g., books, computer accessories, field
+    equipment)
+-   Return office keys to Easton or the department
+-   Complete a progress assessment form
+    <https://unh.az1.qualtrics.com/jfe/form/SV_8B3OVWv6ZvPofcy>
+-   Compile a list (of activities during your time in the lab) of all
+    your grants awarded, publications submitted and accepted, classes
+    taught, and outreach activities (this can be take from your previous
+    progress updates)
+-   Set up an exit interview with your direct mentor and/or Easton
 
 # Inspiration for this lab manual
 

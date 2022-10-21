@@ -2,9 +2,9 @@
 title: "Lab Manual: The Quantitative Marine Ecology Lab"
 date: "Last updated: `r format(Sys.time(), '%d-%B-%Y')`"
 output:
+  github_document: 
   pdf_document: default
   md_document:
-  github_document: 
   html_document:
     df_print: paged
 ---
@@ -25,7 +25,7 @@ render_toc("qmel-onboarding.Rmd")
 
 # Welcome to the Quantitative Marine Ecology Lab!
 
-Welcome to the Quantitative Marine Ecology Lab (QMEL) at UNH. You are joining a team of scientists dedicated to changing the world by tackling the most pressing problems in our oceans. We use a variety of quantitative approaches, coupled with big data and experiments, to investigate the natural world, with a focus on marine systems. The purpose of this document is to help ensure a more seamless transition into the lab. The document is a living document and is by no means exhaustive. The goal is simply to try and get members of the lab on the same page and to help you be successful. You are encouraged to make additions and edits to this document in order to help future lab members. In addition, to this lab manual, there is also a [**lab wiki**](https://github.com/QuantMarineEcoLab/lab-onboarding/wiki). The lab wiki is to provide more nitty gritty details on how the lab operates and how to be successful (e.g., how to get signed off to operate UNH boats, where to find funding, etc.). The [wiki](https://github.com/QuantMarineEcoLab/lab-onboarding/wiki) is in the same repository as this onboarding document. 
+Welcome to the Quantitative Marine Ecology Lab (QMEL) at UNH. You are joining a team of scientists dedicated to changing the world by tackling the most pressing problems in ecology. We use a variety of quantitative approaches, coupled with big data and experiments, to investigate the natural world, with a focus on marine systems. The purpose of this document is to help ensure a more seamless transition into the lab. The document is a living document and is by no means exhaustive. The goal is simply to try and get members of the lab on the same page and to help you be successful. You are encouraged to make additions and edits to this document in order to help future lab members. In addition, to this lab manual, there is also a [**lab wiki**](https://github.com/QuantMarineEcoLab/lab-onboarding/wiki). The lab wiki is to provide more nitty gritty details on how the lab operates and how to be successful (e.g., how to get signed off to operate UNH boats, where to find funding, etc.). The [wiki](https://github.com/QuantMarineEcoLab/lab-onboarding/wiki) is in the same repository as this onboarding document. 
 
 As a new member of the lab, you will be expected to read through this manual. This lab manual is only a starting point for how the lab operates. Ultimately, the lab is made of people. We as a lab determine the environment in which we all work. 
 
@@ -109,11 +109,11 @@ I (Easton) will meet weekly with each member of the lab unless a different agree
 
 ## Unscheduled communication
 
-I am typically on campus from 9am-6pm Mon through Friday. However, my time is split between being working in my office, attending meetings, or teaching classes. When I am in my office, I may or not be available to chat. I often have "deep work" sessions where I am trying to concentrate and focus on thinking hard thoughts. During these times, or if I am on a call, my door will be closed. When my door is open, you are welcome to stop in for a quick chat. Anything longer than a few minutes may require setting up a formal time to chat.
+I am typically on campus from 9am-5pm Mon through Friday. However, my time is split between being working in my office, attending meetings, or teaching classes. When I am in my office, I may or not be available to chat. I often have "deep work" sessions where I am trying to concentrate and focus on thinking hard thoughts. During these times, or if I am on a call, my door will be closed. When my door is open, you are welcome to stop in for a quick chat. Anything longer than a few minutes may require setting up a formal time to chat.
 
 ## Click-up
 
-Will be introduced in January 2022.
+Will be introduced in January 2023.
 
 ## Lab Slack team
 
@@ -121,7 +121,7 @@ The lab group uses Slack https://qmel.slack.com/ as one of our main communicatio
 
 ## Email
 
-In progress
+We don't use email a lot in the lab. We use email to collaborate with non-lab members or to share documents back and forth. 
 
 ## Texting and phone calls 
 
@@ -173,7 +173,7 @@ The ICMJE recommends that authorship be based on the following 4 criteria:
 * Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. 
 In addition, “the corresponding author is the one individual who takes primary responsibility for communication with the journal during the manuscript submission, peer review, and publication process”. 
 
-Thus, simply providing some data or providing minor comments on a manuscript do not warrant authorship, but they should still be acknowledged. Just because I am your advisor, does not mean I warrant authorship on your publications. There will likely be publications that you are involved with that I have only a small part in. That being said, the most common order (but by no means the only) for authorship in the lab is Grad Student Lead, Other Contributors, with the PI as the last author. It is common for the grad student lead and the PI to both be corresponding authors.
+Thus, simply providing some data or providing minor comments on a manuscript do not warrant authorship, but they should still be acknowledged. Just because I am your advisor, does not mean I warrant authorship on your publications. The same goes for your committee members. There will likely be publications that you are involved with that I have only a small part in. That being said, the most common order (but by no means the only) for authorship in the lab is Grad Student Lead, Other Contributors, with the PI as the last author. It is common for the grad student lead and the PI to both be corresponding authors.
 
 ## Authorship resources
 
@@ -185,10 +185,7 @@ Thus, simply providing some data or providing minor comments on a manuscript do 
 
 Like publications, funding is an important metric in science. Applying for and receiving funding allows us to do interesting science, but it also will help you in your career. As a lab member, you are expected to apply for grants to support research and travel as well as fellowships that may advance your career. This helps both you and the lab as a whole. Although you’ll lead these applications, you can also expect meaningful contributions from Easton throughout the process. This means enough lead time is critical. In addition, you may occasionally be asked to add comments or contribute a figure to a grant proposal that Easton is working on. In addition, you are always welcome to read grants that Easton has worked on or submitted. 
 
-As a lab, we have compiled a database of funding opportunities that are the most relevant to members of this lab (see shared Google Drive). However, there are lots of other good databases of funding opportunities as well:
-
-*	https://grad.ucla.edu/funding/#/search
-*	daljkds
+As a lab, we have compiled a database of funding opportunities that are the most relevant to members of this lab (see shared Google Drive). 
 
 
 
@@ -258,6 +255,20 @@ During your time as a undergraduate researcher in the QEML, you will have severa
 - Communicate, communicate, communicate. Many of the issues that arise in research are simply because of a lack of communication. It is critical that you communicate early and often on issues or concerns that you may be experiences. 
 - Be independent. I am periodically away, and I expect you to get things done well without me. Ask questions when I am around, but don't be afraid to try to do the detective work on your own if I am not. We have a helpful, experienced lab, so know that folks other than me may be excellent resources.
 - Keep up with your other responsibilities. As an undergraduate, you have many other obligations. This can include coursework, jobs, family, and more. 
+
+
+# Lab offboarding 
+
+We have a document in the shared Google drive focused on lab offboarding, the process that describes what happens when someone leaves the lab. Here is a brief summary of the process.
+
+- Ensure that all data (including raw data sheets) and code is available in a public repository or in the QuantMarineEcoLab Github, GoogleDrive, or Sharepoint folders
+- Ensure that your data (if applicable) has appropriate metadata (e.g., describing columns in your data) https://knb.ecoinformatics.org/about
+- Develop a plan for next steps (if appropriate) for your project in collaboration with your mentor and Easton
+- Return any lab equipment (e.g., books, computer accessories, field equipment)
+- Return office keys to Easton or the department
+- Complete a progress assessment form https://unh.az1.qualtrics.com/jfe/form/SV_8B3OVWv6ZvPofcy
+- Compile a list (of activities during your time in the lab) of all your grants awarded, publications submitted and accepted, classes taught, and outreach activities (this can be take from your previous progress updates)
+- Set up an exit interview with your direct mentor and/or Easton
 
 
 
